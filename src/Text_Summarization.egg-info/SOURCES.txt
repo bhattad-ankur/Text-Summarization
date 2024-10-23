@@ -1,0 +1,6 @@
+README.md
+setup.py
+src/Text_Summarization.egg-info/PKG-INFO
+src/Text_Summarization.egg-info/SOURCES.txt
+src/Text_Summarization.egg-info/dependency_links.txt
+src/Text_Summarization.egg-info/top_level.txt

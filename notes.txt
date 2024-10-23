@@ -1,0 +1,3 @@
+Requirements 
+    - "-e ." will be used in setup.py 
+    - sacreblue & rouge_score are used for evaluation

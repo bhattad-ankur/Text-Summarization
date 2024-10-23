@@ -26,6 +26,7 @@ list_of_files = [
     "requirements.txt",
     "setup.py",
     "research/trial.ipynb",
+    ".gitignore"
 ]
 
 for filepath in list_of_files : 

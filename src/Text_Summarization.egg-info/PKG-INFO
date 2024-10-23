@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: Text-Summarization
+Version: 0.0.0
+Summary: An advanced Natural Language Processing (NLP) model for text summarization.
+Home-page: https://github.com/bhattad-ankur/Text-Summarization
+Author: bhattad-ankur
+Author-email: ankurbhattad04@gmail.com
+Project-URL: Bug Tracker, https://github.com/bhattad-ankur/Text-Summarization/issues
+Description-Content-Type: text/markdown
